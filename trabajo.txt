@@ -8,3 +8,7 @@ Jueves
 Viernes
 Sábado
 Domingo
+
+estaciones 
+verano 
+primavera
